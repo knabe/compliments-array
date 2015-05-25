@@ -10,5 +10,9 @@
       'My mom always asks me why I can\'t be more like you',
       'The Force is strong with you.',
       'You complete me',
-      'Glorious things are waiting for you.'
+      'Glorious things are waiting for you.',
+      'You\'re crazy hygienic, always brushing and flossing',
+      'Your eyes are hella disarming',
+      'You have a great sense of humor - that\'s personality',
+      'You\'re a good listener even when you\'re exhausted'
 ]
